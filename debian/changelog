@@ -1,0 +1,51 @@
+ros-jazzy-udp-msgs (0.0.5-1trixie) trixie; urgency=high
+
+  * Clean up CI, remove release helpers
+  * Contributors: Evan Flynn
+
+ -- Evan Flynn <evanflynn.msu@gmail.com>  Mon, 01 Jul 2024 16:00:00 -0000
+
+ros-jazzy-udp-msgs (0.0.4-1trixie) trixie; urgency=high
+
+  * Merge pull request #14 <https://github.com/flynneva/udp_msgs/issues/14> from ika-rwth-aachen/feature/ros-noetic
+  * adding ci for ROS noetic
+  * add ros noetic support
+  * Contributors: Evan Flynn, Jean-Pierre Busch
+
+ -- Evan Flynn <evanflynn.msu@gmail.com>  Fri, 01 Dec 2023 16:00:00 -0000
+
+ros-jazzy-udp-msgs (0.0.3-1trixie) trixie; urgency=high
+
+  * update release CI
+  * update CI
+  * Contributors: flynneva
+
+ -- Evan Flynn <evanflynn.msu@gmail.com>  Mon, 08 Mar 2021 16:00:00 -0000
+
+ros-jazzy-udp-msgs (0.0.2-1trixie) trixie; urgency=high
+
+  * add release gh action
+  * fix std_msgs dependency
+  * add changelog
+  * Contributors: Evan Flynn
+
+ -- Evan Flynn <evanflynn.msu@gmail.com>  Sun, 11 Oct 2020 16:00:00 -0000
+
+ros-jazzy-udp-msgs (0.0.1-1trixie) trixie; urgency=high
+
+  * add readme
+  * reorder package.xml
+  * remove docs action
+  * Contributors: Evan Flynn
+
+ -- Evan Flynn <evanflynn.msu@gmail.com>  Tue, 06 Oct 2020 16:00:00 -0000
+
+ros-jazzy-udp-msgs (0.0.0-1trixie) trixie; urgency=high
+
+  * copyright and actions
+  * first commit
+  * Contributors: Evan Flynn
+
+ -- Evan Flynn <evanflynn.msu@gmail.com>  Mon, 05 Oct 2020 16:00:00 -0000
+
+
